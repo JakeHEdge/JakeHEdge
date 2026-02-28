@@ -1,5 +1,3 @@
-Aspiring Software Engineer | Full-Stack Developer (Java, Node.js, MySQL) | Building Data-Driven Systems
-
 # Jake Edge
 
 Final-year BSc Computer Science student specialising in full-stack development and database-driven systems.
