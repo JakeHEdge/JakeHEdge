@@ -23,4 +23,4 @@ Final-year BSc Computer Science student specialising in full-stack development a
 - Final Year Habitual Web Tracker
 
 Connect with me:
-LinkedIn: ...
+LinkedIn: https://www.linkedin.com/in/jake-edge-8b0589268/
