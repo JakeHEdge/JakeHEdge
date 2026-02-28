@@ -1,1 +1,1 @@
-💻 Computer Science Student | Interested in Softrware Dev,AI, Cryptography, Databases & Automation |
+Aspiring Software Engineer | Full-Stack Developer (Java, Node.js, MySQL) | Building Data-Driven Systems
